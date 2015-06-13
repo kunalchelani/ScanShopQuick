@@ -1,0 +1,2 @@
+# ScanShopQuick
+Android project
